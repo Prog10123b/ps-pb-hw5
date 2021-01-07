@@ -1,9 +1,9 @@
-<h3>This git contains solves of three end task of Pumpskill python base course (module 3)</h3>
+<h3>Этот commit содержит решения для последних трех задач третьего модуля базового курса по Python на Pumpskill</h3>
 
 <ul>
-<li>1task.py - Solve of the first task</li>
-<li>2task.py - Solve of the second task</li>
-<li>3task.py - Solve of the third task</li>
+<li>1task.py - Решение первой задачи со множественными формами числительных</li>
+<li>2task.py - Решение второй задачи "FizzBuzz"</li>
+<li>3task.py - Решение задачи с рядом фибоначи</li>
 </ul>
 
-<h4>All programs haven't any settings! All programs work automaticly!</h4>
+<h4>Внимание! Все программы работают автоматически, не требуя ввода!</h4>
